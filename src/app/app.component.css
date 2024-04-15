@@ -1,0 +1,15 @@
+.container {
+    margin-top: 30px;
+  }
+  
+  .list-group-item {
+    margin-bottom: 10px;
+  }
+  
+  .odd {
+    color: orange;
+  }
+  
+  .even {
+    color: yellow;
+  }
